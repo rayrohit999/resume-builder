@@ -29,9 +29,3 @@ All resumes will be exported as the `pdf` file.
 <br>
 
 <br>
-
-## Credits
-
-This project was made by and Inspired from :
-
-- <a href="https://www.youtube.com/@geekprobin1456" target="_blank">GeekProbin</a>
