@@ -3,10 +3,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).
 
-Resume Builder website as a light HTML CSS and JS excercise - [Take a look](https://resume-builder-ram.netlify.app)
+Resume Builder website as a light HTML CSS and JS excercise - [Take a look](https://rayrohit999.github.io/resume-builder/)
 <h1 align="center">
   <br>
-  <a href="https://github.com/notramm/Resume-Builder">
+  <a href="https://github.com/rayrohit999/resume-builder/">
   <img src="/assets/images/curriculum-vitae.png" alt="Build.Resume" width="200"></a>
   <br>
   Build.Resume
@@ -14,6 +14,7 @@ Resume Builder website as a light HTML CSS and JS excercise - [Take a look](http
 </h1>
 
 <h4 align="center">
+  This website is build during internship as Web Developer Intern at VaultOfCodes.
   :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever!
   <br><br>
   Made with HTML CSS and JS
@@ -26,11 +27,6 @@ Export your resume as pdf.
 All resumes will be exported as the `pdf` file.
 
 <br>
-
-
-## Contribute
-
-Feel free to add your own templates, language supports, fix bugs or improve the docs. Any kind of help is appreciated! If you make any kind of changes to an existing template, please commit them as new templates.
 
 <br>
 
